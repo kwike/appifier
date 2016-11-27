@@ -6,8 +6,8 @@ for kwike by abhay saxena
 
 
 link to my site-
-[a link](https://kwike.github.io/appifier/)
+[kwike.github.io/appifier](https://kwike.github.io/appifier/)
 
 get all updates on
 
-[a link](https://kwike.github.io/trends/)
+[kwike.github.io/trends](https://kwike.github.io/trends/)
