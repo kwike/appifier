@@ -10,4 +10,4 @@ link to my site-
 
 get all updates on
 
-[kwike.github.io/trends](https://kwike.github.io/trends/)
+[kwike.github.io/apps](https://kwike.github.io/apps/)
